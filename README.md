@@ -10,7 +10,9 @@
 
 
 ### 🙏 About Me
-I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering. I work as a frontEnd and backEnd web developer (FullStack Web Developer).
+<br> -->
+I hope to become a full stack engineer , I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.
+Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy graduated student .
 
 ---
 
