@@ -10,8 +10,8 @@
 
 
 ### 🙏 About Me
-<br> -->
-I hope to become a full stack engineer , I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.
+<br>
+I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.
 Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy graduated student .
 
 ---
