@@ -12,7 +12,7 @@
 ### 🙏 About Me
 <br>
 I’m a graduate 👨🏻‍🎓 of Computer Engineering and got a Bachelor's degree in Computer Engineering.
-Iam in a training At [Gaza Sky Geeks](https://github.com/gazaskygeeks) as a code Academy graduated student .
+Iam in a training At [Gaza Sky Geeks] as a code Academy graduated student .
 
 ---
 
